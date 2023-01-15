@@ -34,3 +34,5 @@ Przeprowadzanie szkoleń pracowników w zakresie bezpieczeństwa (w tym cyberbez
 Wyznaczenie pracowników odpowiedzialnych za ochronę danych w firmie.
 Klient oczekuje od gotowego produktu świadczenia najwyższej jakości usługi zabezpieczającej jego dane wrażliwe. Dlatego nie tylko wymagane jest stworzenie oprogramowania zapewniającego wszystkie powyższe funkcje, ale również zagwarantowanie uniwersalności klucza w zależności od potrzeb użytkownika oraz sprawienie, że Polkey będzie prosty, a przede wszystkim skuteczny w obsłudze. 
 Podstawowym wymaganiem bezpieczeństwa będzie oprogramowanie zabezpieczające dane użytkownika, za pośrednictwem funkcji szyfrujących. Urządzenie będzie w sobie zawierało system zarządzania certyfikatami, będącymi poświadczeniem bezpieczeństwa w procesie logowania. Kolejnym wymaganiem będzie stworzenie polityki bezpieczeństwa firmy, w której zawarte będą zdrowe praktyki, zasady i zachowania, w jaki sposób należy postępować w naszej firmie, jak również cykliczne organizowanie szkoleń personelu w zakresie bezpieczeństwa. 
+
+TEST
